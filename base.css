@@ -29,7 +29,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-    background-color: black;
+    background-color: green;
 }
 ol, ul {
 	list-style: none;
